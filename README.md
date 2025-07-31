@@ -1,1 +1,2 @@
 # BioYield-Classifier
+Developed a machine learning model to classify bioenergy crop types using environmental and soil data, including temperature, rainfall, and nutrient content. Built a complete data pipeline in Python using pandas, scikit-learn, and matplotlib, incorporating preprocessing, feature scaling, model training with Random Forest, and performance visualization. Demonstrated strong skills in applied machine learning, agricultural data analysis, and model evaluation through metrics, confusion matrices, and learning curves.
